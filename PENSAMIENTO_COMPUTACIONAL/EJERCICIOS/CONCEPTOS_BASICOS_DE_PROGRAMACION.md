@@ -28,6 +28,9 @@ R es un lenguaje interpretado(como Java) y no compilado (como Fortran o Pascal).
 ## LENGUAJE 3
 ## Fortan
 El lenguaje nacio en 1956 como un lenguaje exclusivo para los ordenadores del IBM, gracias a John W. Backus, es un lengiaje de alto nivel.
+Pero pronto cambió la percepción general ya que eran muchas las ventajas que conllevaba utilizar Fortran. Fue considerado como un lenguaje de programación de alto nivel, que conseguía traducir programas enteros sin necesidad de hacerlo de forma manual como con sus predecesores. Además, su uso era más sencillo, no tan restrictivo como lo fueron los anteriores lenguajes de programación existentes.
+![image](https://user-images.githubusercontent.com/34118685/162497595-47171db4-861e-4d36-b9e1-d9f577a32c9b.png)
+
 
 ## Lenguajes de bajo nivel
  El codigo binario basado en la secuencia de 1 y 0.

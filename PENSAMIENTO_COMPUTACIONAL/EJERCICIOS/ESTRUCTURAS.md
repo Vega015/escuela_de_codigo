@@ -14,6 +14,7 @@
 8. Mostrar ("Tu letra no esta permitida")
 9. finsi
 10. Fin
+![image](https://user-images.githubusercontent.com/34118685/164291189-489fe20c-2507-4c3c-a566-313bcbddfa95.png)
 
 
 
@@ -65,6 +66,9 @@
 40. mostrar("son repetidos")
 41. Finsi
 42. Fin
+
+![image](https://user-images.githubusercontent.com/34118685/164295175-c4b867dd-441a-4f7b-8979-35211b0bdb8c.png)
+
 
 
 

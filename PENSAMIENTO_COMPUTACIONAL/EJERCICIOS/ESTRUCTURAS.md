@@ -73,5 +73,26 @@
 
 
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
+
+1. Inicio
+2. Definir int(mes) 
+3. Mostrar ("Selecciona un numero entre el 1 y 12")
+4. Asignar (mes)
+5. En caso
+      1 Mostrar ("El mes que elegiste es Enero")
+      2 Mostrar ("El mes que elegiste es Febrero")
+      3 Mostrar ("El mes que elegiste es Marzo")
+      4 Mostrar ("El mes que elegiste es Abril")
+      5 Mostrar ("El mes que elegiste es Mayo")
+      6 Mostrar ("El mes que elegiste es Junio")
+      7 Mostrar ("El mes que elegiste es Julio")
+      8 Mostrar ("El mes que elegiste es Agosto")
+      9 Mostrar ("El mes que elegiste es Septiembre")
+      10 Mostrar ("El mes que elegiste es Octubre")
+      11 Mostrar ("El mes que elegiste es Noviembre")
+      12 Mostrar ("El mes que elegiste es Diciembre")
+      !! Mostrar ("El valor es invalido")
+ 6. Fin
+ 
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 * Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.

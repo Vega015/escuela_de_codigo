@@ -14,6 +14,7 @@
 8. Mostrar ("Tu letra no esta permitida")
 9. finsi
 10. Fin
+
 ![image](https://user-images.githubusercontent.com/34118685/164291189-489fe20c-2507-4c3c-a566-313bcbddfa95.png)
 
 
@@ -21,6 +22,28 @@
 
 
 * Un programa que pida una letra y detecte si es una vocal. 
+
+1. Inicio
+2. Definir char(letra)
+3. Mostrar ("Teclea una letra, por favor")
+4. Asignar (letra)
+5. En caso
+      "a" Mostrar ("Tu letra es vocal y es la a")
+      "A" Mostrar ("Tu letra es vocal y es la A")
+      "e" Mostrar (Tu letra es vocal y es la e")
+      "E" Mostrar ("Tu letra es vocal y es la E")
+      "i" Mostrar ("Tu letra es vocal y es la i")
+      "I" Mostrar ("Tu letra es vocal y es la I")
+      "o" Mostrar ("Tu letra es vocal y es la o")
+      "O" Mostrar ("Tu letra es vocal y es la O")
+      "u" Mostrar ("Tu letra es vocal y es la u")
+      "U" Mostrar ("Tu letra es vocal y es la U")
+      !! Mostrar ("La opción que elegiste es numero o una consonantes")
+  6. Fin
+ 
+ ![image](https://user-images.githubusercontent.com/34118685/164532243-596ab1cd-3b5f-4efa-9197-305a81896c6c.png)
+
+
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 
 1. Inicio

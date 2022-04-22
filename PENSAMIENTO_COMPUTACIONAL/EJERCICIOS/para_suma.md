@@ -14,3 +14,6 @@ Programa que pida 6 numeros y te vaya mostrando la suma de esos numeros. al fina
 6. Promedio = suma /6
 7. Mostrar (preomedio)
 8. Fin
+
+![image](https://user-images.githubusercontent.com/34118685/164773886-50debea3-5c0d-4d4b-ab20-e66e53ba1ce9.png)
+

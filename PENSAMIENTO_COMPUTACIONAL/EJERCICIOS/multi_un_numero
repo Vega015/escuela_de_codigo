@@ -1,1 +1,13 @@
+Hacer un programa que te pida un numero y despues te imprima la tabla de multiplicar de ese numero
 
+1. Inicio
+2. Declarar (num, multi)
+3. Mostrar ("¿De que numero quieres su tabla de multiplicar?")
+4. Asignar multi
+5. Asignar i=1
+6. Para i<=10 Hacer
+7.    multi= i*num
+7.     Mostrar multi
+7.    i=i+1
+8. FinPara
+9. Fin

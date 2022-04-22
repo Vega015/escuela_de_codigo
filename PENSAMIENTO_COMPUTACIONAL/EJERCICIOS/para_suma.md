@@ -5,12 +5,12 @@ Programa que pida 6 numeros y te vaya mostrando la suma de esos numeros. al fina
 3. Asignar (suma = 0)
 4. Asignar i = 0
 5. Para i <= 6 Hacer
-      Mostrar "Por favor, ingrese un numero"
-      Asignar (num)
-      suma = suma+num
-      Mostrar (suma)
-      i++
-      FinPara
-5. Promedio = suma /6
-6. Mostrar (preomedio)
-7. Fin
+5.   Mostrar "Por favor, ingrese un numero"
+5.     Asignar (num)
+5.     suma = suma+num
+5.    Mostrar (suma)
+5.    i++
+5.    FinPara
+6. Promedio = suma /6
+7. Mostrar (preomedio)
+8. Fin

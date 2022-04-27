@@ -19,3 +19,6 @@ Algoritmo numero_digitos
 		Fin Si
 	Hasta Que num =0
 FinAlgoritmo
+
+
+

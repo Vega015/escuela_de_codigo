@@ -4,7 +4,7 @@ y el mensaje REPROBADO en caso contrario, considere además el siguiente requisi
 
 ![image](https://user-images.githubusercontent.com/34118685/166023937-19461c10-d44d-423c-8fad-26ea5413f671.png)
 
-Algoritmo APROBADO
+	Algoritmo APROBADO
 	Escribir "Te va a mostrar si aprobaste o no el curso"
 	Escribir "La calificacion debe estar entre 1 y 7"
 	Leer cal
@@ -19,7 +19,7 @@ Algoritmo APROBADO
 	Fin Si
 	
 	
-FinAlgoritmo
+	FinAlgoritmo
 
 
 Actividad 2. Programa, usando algoritmo de estructura repetitiva, lo siguiente:

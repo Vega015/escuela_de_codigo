@@ -25,6 +25,9 @@ y el mensaje REPROBADO en caso contrario, considere además el siguiente requisi
 Actividad 2. Programa, usando algoritmo de estructura repetitiva, lo siguiente:
 Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para obtener la edad promedio de un grupo de N alumnos.
 
+![image](https://user-images.githubusercontent.com/34118685/166508670-bacb96cd-f38b-4116-95ec-009545c455fa.png)
+
+
 
 	Algoritmo 	EDADPROMEDIO
 	Escribir "Calcula la edad promedio del grupo de estudiantes "

@@ -33,7 +33,7 @@ Diseña un algoritmo representándolo en Diagrama de Flujo y Pseudocódigo para 
 	suma<-0
 	contador<-0
 	Para i<-1 Hasta num_est Con Paso 1 Hacer
-		Escribir "Ingresa la edad del estudiante"
+		Escribir "Ingresa la edad del estudiante, numero ",i
 		Leer edad
 		suma<-suma+edad
 		contador<-contador+1
